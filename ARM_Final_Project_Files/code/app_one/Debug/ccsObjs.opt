@@ -1,0 +1,11 @@
+"./NVIC.obj"
+"./SYSTICK.obj"
+"./delay.obj"
+"./ext_interrupt.obj"
+"./gpio.obj"
+"./main.obj"
+"./tiva_LEDS.obj"
+"./tiva_SW.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
